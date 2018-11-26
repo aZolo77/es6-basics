@@ -3,3 +3,13 @@ body {
   padding: 0;
   background-color: seashell;
 }
+
+#movies {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  flex: 1 100px;
+  margin: 5px;
+}
